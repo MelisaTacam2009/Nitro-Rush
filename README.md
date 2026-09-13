@@ -3,7 +3,7 @@
 ### Proyecto de Programador Junior
 
 **Desarrollado por:** Melisa
-
+ 
 ## Descripción del proyecto
 
 NITRO RUSH es un videojuego de carreras diseñado para
