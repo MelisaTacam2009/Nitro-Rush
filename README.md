@@ -4,7 +4,7 @@
 
 **Desarrollado por:** Melisa
  
-## Descripción del proyecto
+## Descripción del proyecto  
 
 NITRO RUSH es un videojuego de carreras diseñado para
 adolescentes de 13 a 15 años. El jugador deberá competir
