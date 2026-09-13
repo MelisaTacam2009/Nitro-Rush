@@ -1,6 +1,6 @@
 # 🏎️ NITRO RUSH
 
-### Proyecto de Programador Junior
+### Proyecto de Programador Junior 
 
 **Desarrollado por:** Melisa
  
