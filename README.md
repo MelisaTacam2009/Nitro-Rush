@@ -1,4 +1,4 @@
-# 🏎️ NITRO RUSH
+# 🏎️ NITRO RUSH Taller Final 202205129@icvh.edu.gt
 
 ### Proyecto de Programador Junior 
 
