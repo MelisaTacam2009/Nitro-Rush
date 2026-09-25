@@ -2,7 +2,7 @@
 
 ### Proyecto de Programador Junior 
 
-**Desarrollado por:** Melisa
+**Desarrollado por:** Melisa Abigaíl Tacam Valiento 5to. P.C "B" Clave:30
  
 ## Descripción del proyecto  
 NITRO RUSH es un videojuego de carreras dirigido a adolescentes de 13 a 15 años. El jugador deberá competir contra diferentes rivales, superar obstáculos, utilizar el nitro y completar diferentes niveles hasta convertirse en el campeón.
